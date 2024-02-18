@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243608624557",
+    "project_id": "pulsepledge-83118",
+    "storage_bucket": "pulsepledge-83118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243608624557:android:8afdbffef5483c1637d524",
+        "android_client_info": {
+          "package_name": "com.example.donor_community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcIPElVYakc7WRXvvwM4agjPK5va3-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

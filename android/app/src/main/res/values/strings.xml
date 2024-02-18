@@ -1,0 +1,5 @@
+<resources>
+    <string name="default_notification_channel_id">default_channel</string>
+    <string name="channel_name">Default Channel</string>
+    <string name="channel_description">Default channel for notifications</string>
+</resources>
