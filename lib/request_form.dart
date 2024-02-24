@@ -185,7 +185,7 @@ class _FormPageState extends State<FormPage> {
                 const SizedBox(height: 20),
                 GooglePlaceAutoCompleteTextField(
                   textEditingController: _addressController,
-                  googleAPIKey: "AIzaSyCSxGoiVM37fQ3-iExwPRpOxdLAMsibrfI",
+                  googleAPIKey: "",
                   inputDecoration: InputDecoration(
                     hintText: 'Enter your street address',
                     border: OutlineInputBorder(

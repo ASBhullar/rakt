@@ -52,7 +52,7 @@ class NotificationService {
         fcmUrl,
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'key=AAAAOLg0na0:APA91bGvFUbQ6W9SSflLF2P5lBch1J_drlcLUs5yuLKGPUp4An5gznoEtNFrDhTbJ2hFX4AUepxxqgezDl3QPDxXYTQpg6PZHFM01Hpk1adYVer7bt5v2SmXy85E47I3B1YivnouD32E',
+          'Authorization': 'key=',
         },
         body: jsonEncode({
           'notification': {

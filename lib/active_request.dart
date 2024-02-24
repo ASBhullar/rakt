@@ -65,11 +65,11 @@ class _ActiveRequestPageState extends State<ActiveRequestPage> {
 
   Widget _buildRequestDetailsCard() {
     // Replace these values with actual request details from form submission
-    String patientName = 'Alex Kirk';
-    String patientId = '002233';
-    String institutionName = 'San Francisco';
-    String address = '2147 Newhall Street, Santa Clara, CA 95050';
-    String bloodGroup = 'AB+';
+    String patientName = 'John';
+    String patientId = '112233';
+    String institutionName = 'SCU';
+    String address = '500 El Camino Real';
+    String bloodGroup = 'O+';
 
     return Card(
       margin: EdgeInsets.all(20),
@@ -128,7 +128,7 @@ class _ActiveRequestPageState extends State<ActiveRequestPage> {
     // Replace these with actual data of responders
     List<Map<String, String>> responders = [
       {
-        'name': 'Amarjot Singh Bhullar',
+        'name': 'Rohit Yadav',
         'location': '500 El Camino Street',
         'contact': '6693691841'
       },
